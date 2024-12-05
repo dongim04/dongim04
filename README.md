@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Dongim Lee!
-![Dongim Lee](https://github.com/dongim04/dongim04.github.io/blob/8f2b93a377ba4f15677c1da6948c3ab173df6230/img/profile.JPG)
+<img src="https://github.com/dongim04/dongim04.github.io/blob/8f2b93a377ba4f15677c1da6948c3ab173df6230/img/profile.JPG" alt="Dongim Lee" width="150"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dongim%20Lee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dongim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Dongim04.github.io-green?style=flat&logo=github)](https://dongim04.github.io)
