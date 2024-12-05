@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dongim%20Lee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dongim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Dongim04.github.io-green?style=flat&logo=github)](https://dongim04.github.io)
 
-📍 **Location:** Needham, MA | 🇰🇷 Republic of Korea  
-🎓 **Education:** B.S. in Engineering Computing, Olin College of Engineering (GPA: 3.93/4.0)
+📍 **Location:** Needham, MA
+🎓 **Education:** B.S. in Engineering Computing, Olin College of Engineering
 
 ---
 
